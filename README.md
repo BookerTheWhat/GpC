@@ -1,2 +1,2 @@
 # GpC
-Graficos por computador
+Graficos por Computador
